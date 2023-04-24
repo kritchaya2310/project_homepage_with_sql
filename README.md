@@ -1,4 +1,4 @@
-# Home Page for Sports Day Competition
+# Home Page for Sports Day Competition with Database
 This code is a PHP script that creates a connection to a MySQL database and checks the connection status. It also includes PHP code for checking if the user has an active session, and if not, redirecting to the login page.
 
 The HTML part of the code contains the layout for the home page, including a header and a side menu. The side menu displays information about the sports day competition, including the duration of the event. The home content section has three boxes, each containing a link to different pages. These pages include athlete details, match details, and results.
